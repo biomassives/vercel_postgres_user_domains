@@ -1,0 +1,265 @@
+[
+  {
+    "participant_id": "123456",
+    "location": {
+      "latitude": 27.7172,
+      "longitude": 85.3240
+    },
+    "area": "Kathmandu Metropolitan City",
+    "checkin_time": "2023-12-06T10:30:00",
+    "waste_sector": "organic",
+    "description": "Segregated and disposed of organic waste properly at home.",
+    "nft_storage_url": "https://nft.storage/your-organic-waste-nft-url",
+    "infura_io_url": "https://infura.io/your-organic-waste-url",
+    "plastics_weight": 2.5,
+    "compost_check": true,
+    "compost_turned": "partially",
+    "dry_ingredients_added": ["dried leaves", "straw"],
+    "map_image_url": "https://your-map-image-url.com",
+    "local_burn_area": {
+      "latitude": 27.7250,
+      "longitude": 85.3350
+    },
+    "city_dump_location": {
+      "latitude": 27.7050,
+      "longitude": 85.3100
+    },
+    "trash_receptacle_location": {
+      "latitude": 27.7200,
+      "longitude": 85.3280
+    },
+    "polluted_river_location": {
+      "latitude": 27.6800,
+      "longitude": 85.3550
+    }
+  },
+  {
+    "participant_id": "789012",
+    "location": {
+      "latitude": 27.6972,
+      "longitude": 85.3450
+    },
+    "area": "Bhaktapur Municipality",
+    "checkin_time": "2023-12-06T12:45:00",
+    "waste_sector": "recyclable",
+    "description": "Dropped off recyclable materials at the local recycling center.",
+    "nft_storage_url": "https://nft.storage/your-recyclable-waste-nft-url",
+    "infura_io_url": "https://infura.io/your-recyclable-waste-url",
+    "plastics_weight": 1.8,
+    "map_image_url": "https://your-map-image-url.com",
+    "local_burn_area": {
+      "latitude": 27.7100,
+      "longitude": 85.3550
+    },
+    "city_dump_location": {
+      "latitude": 27.6900,
+      "longitude": 85.3300
+    },
+    "trash_receptacle_location": {
+      "latitude": 27.7050,
+      "longitude": 85.3400
+    },
+    "polluted_river_location": {
+      "latitude": 27.6700,
+      "longitude": 85.3650
+    }
+  },
+  {
+    "participant_id": "345678",
+    "location": {
+      "latitude": 27.6500,
+      "longitude": 85.3180
+    },
+    "area": "Patan Sub-Metropolitan City",
+    "checkin_time": "2023-12-06T14:15:00",
+    "waste_sector": "e-waste",
+    "description": "Disposed of old electronics at the designated e-waste collection point.",
+    "nft_storage_url": "https://nft.storage/your-e-waste-nft-url",
+    "infura_io_url": "https://infura.io/your-e-waste-url",
+    "plastics_weight": 0.5,
+    "map_image_url": "https://your-map-image-url.com",
+    "local_burn_area": {
+      "latitude": 27.6600,
+      "longitude": 85.3250
+    },
+    "city_dump_location": {
+      "latitude": 27.6400,
+      "longitude": 85.3100
+    },
+    "trash_receptacle_location": {
+      "latitude": 27.6550,
+      "longitude": 85.3200
+    },
+    "polluted_river_location": {
+      "latitude": 27.6250,
+      "longitude": 85.3450
+    }
+  },
+  {
+    "participant_id": "901234",
+    "location": {
+      "latitude": 27.7400,
+      "longitude": 85.3650
+    },
+    "area": "Kirtipur Municipality",
+    "checkin_time": "2023-12-06T16:00:00",
+    "waste_sector": "general",
+    "description": "Participated in a community cleanup and disposed of general waste responsibly.",
+    "nft_storage_url": "https://nft.storage/your-general-waste-nft-url",
+    "infura_io_url": "https://infura.io/your-general-waste-url",
+    "plastics_weight": 3.2,
+    "map_image_url": "https://your-map-image-url.com",
+    "local_burn_area": {
+      "latitude": 27.7500,
+      "longitude": 85.3750
+    },
+    "city_dump_location": {
+      "latitude": 27.7300,
+      "longitude": 85.3600
+    },
+    "trash_receptacle_location": {
+      "latitude": 27.7350,
+      "longitude": 85.3700
+    },
+    "polluted_river_location": {
+      "latitude": 27.7000,
+      "longitude": 85.3850
+    }
+  },
+  {
+    "participant_id": "789012",
+    "location": {
+      "latitude": 27.7450,
+      "longitude": 85.3110
+    },
+    "area": "New Baneshwor",
+    "checkin_time": "2023-12-08T08:45:00",
+    "waste_sector": "organic",
+    "description": "Joined a community composting program, turned compost, and added dry leaves.",
+    "nft_storage_url": "https://nft.storage/your-organic-waste-nft-url",
+    "infura_io_url": "https://infura.io/your-organic-waste-url",
+    "plastics_weight": 0.5,
+    "compost_check": true,
+    "compost_turned": "fully",
+    "dry_ingredients_added": ["dried leaves", "straw"],
+    "map_image_url": "https://your-map-image-url.com",
+    "local_burn_area": {
+      "latitude": 27.7500,
+      "longitude": 85.3200
+    },
+    "city_dump_location": {
+      "latitude": 27.7300,
+      "longitude": 85.3050
+    },
+    "trash_receptacle_location": {
+      "latitude": 27.7350,
+      "longitude": 85.3150
+    },
+    "polluted_river_location": {
+      "latitude": 27.7000,
+      "longitude": 85.3300
+    },
+    "plant_nursery_care": true,
+    "soil_distribution": true
+  },
+  {
+    "participant_id": "234567",
+    "location": {
+      "latitude": 27.6950,
+      "longitude": 85.3300
+    },
+    "area": "Gongabu",
+    "checkin_time": "2023-12-08T11:15:00",
+    "waste_sector": "recyclable",
+    "description": "Organized a plastic collection drive and distributed recycling bins.",
+    "nft_storage_url": "https://nft.storage/your-recyclable-waste-nft-url",
+    "infura_io_url": "https://infura.io/your-recyclable-waste-url",
+    "plastics_weight": 2.2,
+    "map_image_url": "https://your-map-image-url.com",
+    "local_burn_area": {
+      "latitude": 27.7000,
+      "longitude": 85.3350
+    },
+    "city_dump_location": {
+      "latitude": 27.6800,
+      "longitude": 85.3200
+    },
+    "trash_receptacle_location": {
+      "latitude": 27.6850,
+      "longitude": 85.3300
+    },
+    "polluted_river_location": {
+      "latitude": 27.6600,
+      "longitude": 85.3450
+    },
+    "plant_nursery_care": false,
+    "soil_distribution": false
+  },
+  {
+    "participant_id": "345678",
+    "location": {
+      "latitude": 27.6150,
+      "longitude": 85.3550
+    },
+    "area": "Kapan",
+    "checkin_time": "2023-12-08T13:45:00",
+    "waste_sector": "e-waste",
+    "description": "Donated electronic devices for a local e-waste recycling initiative.",
+    "nft_storage_url": "https://nft.storage/your-e-waste-nft-url",
+    "infura_io_url": "https://infura.io/your-e-waste-url",
+    "plastics_weight": 0.8,
+    "map_image_url": "https://your-map-image-url.com",
+    "local_burn_area": {
+      "latitude": 27.6200,
+      "longitude": 85.3600
+    },
+    "city_dump_location": {
+      "latitude": 27.6000,
+      "longitude": 85.3450
+    },
+    "trash_receptacle_location": {
+      "latitude": 27.6050,
+      "longitude": 85.3550
+    },
+    "polluted_river_location": {
+      "latitude": 27.5800,
+      "longitude": 85.3700
+    },
+    "plant_nursery_care": true,
+    "soil_distribution": false
+  },
+  {
+    "participant_id": "901234",
+    "location": {
+      "latitude": 27.7200,
+      "longitude": 85.3700
+    },
+    "area": "Balaju",
+    "checkin_time": "2023-12-08T15:30:00",
+    "waste_sector": "general",
+    "description": "Led a neighborhood cleanup, disposed of general waste, and planted trees.",
+    "nft_storage_url": "https://nft.storage/your-general-waste-nft-url",
+    "infura_io_url": "https://infura.io/your-general-waste-url",
+    "plastics_weight": 1.5,
+    "map_image_url": "https://your-map-image-url.com",
+    "local_burn_area": {
+      "latitude": 27.7250,
+      "longitude": 85.3750
+    },
+    "city_dump_location": {
+      "latitude": 27.7050,
+      "longitude": 85.3600
+    },
+    "trash_receptacle_location": {
+      "latitude": 27.7100,
+      "longitude": 85.3700
+    },
+    "polluted_river_location": {
+      "latitude": 27.6800,
+      "longitude": 85.3850
+    },
+    "plant_nursery_care": true,
+    "soil_distribution": true
+  }
+]
+
