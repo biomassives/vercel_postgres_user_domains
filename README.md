@@ -1,18 +1,20 @@
 <a href="https://app.vercel.pub">
   <img alt="Platforms Starter Kit" src="/public/thumbnail.png">
-  <h1 align="center">Platforms Starter Kit</h1>
+  <h1 align="center">Eco Ops Platforms Starter Kit</h1>
 </a>
 
 <p align="center">
   The <em>all-in-one</em> starter kit <br/>
-  for building multi-tenant applications.
+  for biodivertity token valuation and energy efficient FOSS cNfT infrastructure.
 </p>
 
 <p align="center">
   <a href="#introduction"><strong>Introduction</strong></a> ·
   <a href="https://app.vercel.pub/"><strong>Demo</strong></a> ·
-  <a href="#deploy-your-own"><strong>Deploy Your Own</strong></a> ·
+  <a href="#deploy-your-own"><strong>Deploy Your OwnBiodiverity Token </strong></a> ·
   <a href="https://vercel.com/guides/nextjs-multi-tenant-application"><strong>Guide</strong></a> ·
+    <a href="https://vercel.com/guides/nextjs-multi-tenant-application"><strong>Bubble Gum Tree</strong></a> ·
+
   <a href="https://steven.vercel.pub/kitchen-sink"><strong>Kitchen Sink</strong></a> ·
   <a href="#contributing"><strong>Contributing</strong></a>
 </p>
@@ -128,7 +130,61 @@ This working demo site was built using the Platforms Starter Kit and:
 
 ## Author
 
+- G Willon ([](https://twitter.com/ecociy))
+
 - Steven Tey ([@steventey](https://twitter.com/steventey))
+
+
+## project advice from GPT4
+
+1. Objectives and Scope
+
+    Clearly define the problem you're trying to solve and the impact you wish to have in each of the countries you've mentioned. This will help in keeping the project focused and measurable.
+
+2. Use Agile Development Methodologies
+
+    Adopt an agile development approach, which allows for iterative and incremental development. This approach will enable you to rapidly prototype, test, and refine your solution based on feedback.
+
+3. Leverage Existing Tools and Platforms
+
+    Utilize existing blockchain networks, like Solana, which is known for its high throughput and low transaction costs, making it suitable for handling large-scale and high-frequency data.
+    For decentralized storage, IPFS and nft.storage are great choices. nft.storage specifically provides free storage for NFT metadata and assets and is backed by IPFS and Filecoin.
+
+4. Build a Modular Architecture
+
+    Design your system in a modular way, where each component (like data ingestion, Merkle tree construction, IPFS storage, and Solana blockchain interaction) is a separate module. This allows for easier testing, updating, and scaling of each module.
+
+5. Focus on Data Minimization and Privacy
+
+    Since you're dealing with potentially sensitive ecological data, ensure your design adheres to data minimization principles. Store only what's necessary on-chain, and use pointers to off-chain storage like IPFS for detailed data.
+
+6. Engage with the Community
+
+    Since your project has a global impact, engage with local communities and stakeholders in each of the countries you've mentioned. They can provide valuable insights and help tailor your solution to local needs.
+
+7. Secure and Optimize Smart Contracts
+
+    Given the critical nature of your application, ensure that your smart contracts on Solana are well-audited, secure, and optimized for performance and cost.
+
+8. Test Thoroughly
+
+    Test your prototype extensively in different environments to ensure its robustness, scalability, and usability. Consider both technical tests (like load testing and smart contract audits) and user acceptance testing to gather feedback on usability.
+
+9. Documentation and Training
+
+    Create comprehensive documentation for your system and provide training resources to help onboard new users and developers, especially in the diverse regions you aim to impact.
+
+10. Seek Partnerships and Funding
+
+    Look for partnerships with environmental organizations, governments, and tech companies in the regions of interest. They can provide funding, resources, and a network to scale your solution.
+
+11. Implement Monitoring and Analytics
+
+    Implement monitoring and analytics tools to track the usage, performance, and impact of your solution. This data will be invaluable for reporting to stakeholders and for continuous improvement.
+
+12. Stay Adaptable and Open to Feedback
+
+    Be prepared to pivot or adapt your solution based on feedback and new findings as you progress. The field of blockchain and decentralized storage is rapidly evolving, so staying flexible is key.
 
 ## License
 
